@@ -7,4 +7,9 @@ a note for creating a webapge
 
     1.1 might need an SSL Certificate: https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
   
-2. 
+
+
+
+
+## Reference
+1. http://blairreeves.me/2019/01/10/yes-you-should-blog/
