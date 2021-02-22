@@ -12,5 +12,5 @@ a note for creating a webapge
 
 
 ## Reference
-1. http://blairreeves.me/2019/01/10/yes-you-should-blog/
+1. http://blairreeves.me/2019/11/12/how-to-set-up-your-blog-on-aws/
 2. Ideal design: https://teapowered.dev/
